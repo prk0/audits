@@ -5,4 +5,4 @@
 ## 2025
 | Protocol | Platform | H | M | Earnings | Notes |
 | - | - | - | - | - | - |
-| Panoptic | Code4rena | 1 | - | 118.95 | - |
+| Panoptic | Code4rena | 1 |  | 118.95 |  |
