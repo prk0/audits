@@ -5,7 +5,7 @@
 | - | - | - | - | - | - | - | - |
 | [Panoptic](https://code4rena.com/audits/2025-12-panoptic-next-core) | Code4rena | 1 | 1 | A | 1,552.78 | 9 | TBA |
 | [SukukFi](https://code4rena.com/audits/2025-11-sukukfi) | Code4rena | 1 | 1 | A (1st) | 682.11 | 17 | TBA |
-|  | | 2 | 2 | 2,234.89 | | |
+|  | | 2 | 2 | | 2,234.89 | | |
 
 ## 2025
 | Protocol | Platform | H | M | Earnings | Rank | Report |
