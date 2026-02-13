@@ -1,6 +1,10 @@
 # audits
 
 ## 2026
+| Protocol | Platform | H | M | Earnings | Rank | Report |
+| - | - | - | - | - | - | - |
+| Panoptic | Code4rena | 1 | 1 | 1,552.78 | 9 | TBA |
+| SukukFi | Code4rena | 1 | 1 | 682.11 | 17 | TBA |
 
 ## 2025
 | Protocol | Platform | H | M | Earnings | Rank | Report |
