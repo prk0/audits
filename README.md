@@ -1,4 +1,4 @@
-# audits
+# Competition Log
 
 ## 2026
 | Protocol | Platform | H | M | QA | Earnings | Rank | Report |
@@ -23,6 +23,8 @@
 ## 2024
 
 ### Sherlock Judging (V1)
+- Competed as wtp0x
+- Peaked at #3 on Judging LB
 | Protocol | Date | Earnings | Rank |
 | - | - | - | - |
 | Truflation | 01/08/2024 - 01/10/2024 | 87.94 | 3/53 |
