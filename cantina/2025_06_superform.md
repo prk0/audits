@@ -1,3 +1,10 @@
+# Superform Core
+
+## Findings Summary 
+
+| ID | Title | Duplicates |
+| [M-01](#spectraexchangehook-useprevhookamountposition-should-be-read-from-index-24) | SpectraExchangeHook - USE_PREV_HOOK_AMOUNT_POSITION should be read from index 24 | 8 |
+
 ## SpectraExchangeHook - USE_PREV_HOOK_AMOUNT_POSITION should be read from index 24
 
 ## Summary
