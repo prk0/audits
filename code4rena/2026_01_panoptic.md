@@ -5,7 +5,7 @@
 | Id | Title | Duplicates |
 | - | - | - |
 | [H-01](#commission-fees-can-always-be-bypassed) | Commission fees can always be bypassed | 4 |
-| [M-01](#riskengine-computedelayedswap-does-not-return-the-correct-value) | RiskEngine::_computeDelayedSwap() does not return the correct value | 6 |
+| [M-01](#riskengine-_computedelayedswap-does-not-return-the-correct-value) | RiskEngine::_computeDelayedSwap() does not return the correct value | 6 |
 | [QA](#qa-report) | QA Report | N/A |
 
 ## Commission fees can always be bypassed
