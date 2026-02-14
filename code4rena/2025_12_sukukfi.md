@@ -4,8 +4,8 @@
 
 | ID | Title | Duplicates |
 | - | - | - |
-| [H-01](#werc7575vault-cant-be-drained-due-to-missing-input-validation) | WERC7575Vault can be drained due to missing input validation | 163 |
-| [M-01](#unregistervault-can-be-dosed-via-frontrunning-with-1-wei-donation) | unregisterVault() can be DoSed via front-running with 1 wei donation | 102 |
+| [H-01](#werc7575vault-can-be-drained-due-to-missing-input-validation) | WERC7575Vault can be drained due to missing input validation | 163 |
+| [M-01](#unregistervault-can-be-dosed-via-front-running-with-1-wei-donation) | unregisterVault() can be DoSed via front-running with 1 wei donation | 102 |
 | [QA](#qa-report) | QA Report | N/A |
 
 ## WERC7575Vault can be drained due to missing input validation
